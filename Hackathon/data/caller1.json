@@ -1,0 +1,28 @@
+{
+"caller1": [
+{
+"sentenceorder": 1,
+"sentence":"Your site is not working when I try to upload documents. I contacted support and they could not help me.  They left me on hold for 56 min prior to me hanging up and calling again.",
+"sentimentscore": 2,
+"sentimentCateg": "negative"
+},
+{
+"sentenceorder": 2,
+"sentence":"Yes. On uhcProvider. There are medical notes that should be included in a prior authorization request. It keeps timing out when I hit submit.",
+"sentimentscore": 2,
+"sentimentCateg": "negative"
+},
+{
+"sentenceorder": 3,
+"sentence":"Oh. I had it as a docx file. That might be the issue. Let me try that.",
+"sentimentscore": 8,
+"sentimentCateg": "positive"
+},
+{
+"sentenceorder": 4,
+"sentence":"It worked! Thank You for your support",
+"sentimentscore": 8,
+"sentimentCateg": "positive"
+}
+]
+}
